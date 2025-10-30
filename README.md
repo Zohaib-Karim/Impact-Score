@@ -217,7 +217,7 @@ This project is licensed under the MIT License.
 
 ## 📧 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email karim.zohaib2004@gmail.com or open an issue in the repository.
 
 ---
 
